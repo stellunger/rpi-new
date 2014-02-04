@@ -34,7 +34,7 @@
 						<div class="b-project-item">
 							<div class="b-img"><a href="<?php echo base_url(); ?>equipment"><img src="images/glipgh2.png" alt=""></a></div>
 							<div class="b-title">оборудование</div>
-							<div class="b-text">Разработка и производство технологического оборудования.</div>
+							<div class="b-text">Разработка и производство технологического<br>оборудования.</div>
 							<div class="b-link"><a href="<?php echo base_url(); ?>equipment" class="b-link-more">Подробнее</a></div>
 						</div>
 					</div>
