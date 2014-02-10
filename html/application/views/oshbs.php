@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="col-md-3 col-sm-4">
 			  
-
+			<img src="<?php echo base_url(); ?>images/ffs/oshbs-3d.png" />
 			 
 			</div>
 			<div class="col-md-9 col-sm-8">

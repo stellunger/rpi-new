@@ -102,11 +102,13 @@
 			<div class="row b-footer-coperate">
 				<div class="col-md-9 col-sm-6">
 					<div class="b-coperate"><p>© 2014 Инжиниринг-урал.рф<br>Все права защищены</p></div>
+					<small>Разработка и продвижение: <a href="http://stellunger.ru" target=_blank>Бюро интернет-маркетинга "Штеллунгер"</a></small>
 				</div>
 				<div class="col-md-3 col-sm-3">
 					<div class="b-city">
-						г. Екатеринбург,
+						
 						<div class="b-tel-footer">+7 (343) 385-12-83</div>
+
 					</div>
 				</div>
 				<!--<div class="col-md-2 col-sm-3">

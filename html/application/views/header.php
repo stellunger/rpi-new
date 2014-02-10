@@ -61,6 +61,7 @@
 						  <li><a href="<?php echo base_url(); ?>nefteulovitel">Нефтеуловитель</a></li>			
 						  <li><a href="<?php echo base_url(); ?>peskoulovitel">Пескоуловитель</a></li>			
 						  <li><a href="<?php echo base_url(); ?>sf">Сорбционный фильтр</a></li>	
+						  <li><a href="<?php echo base_url(); ?>giroulovitel">Жироуловитель</a></li>	
 						</ul>
 					  </li>
 

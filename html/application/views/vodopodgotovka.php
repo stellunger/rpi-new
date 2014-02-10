@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="col-md-3 col-sm-4">
 			  
-
+			<img class="img-responsive" src="<?php echo base_url(); ?>images/ffs/vodopodgotovka-3d.png" alt="">
 			 
 			</div>
 			<div class="col-md-9 col-sm-8">
@@ -61,7 +61,7 @@
 					<li><b>Установки УФ-обеззараживания.</b></li>
 				</ul>
 				
-				<p><img class="img-responsive" src="<?php echo base_url(); ?>images/ffs/pns-01.png" alt=""></p>
+				<p><img class="img-responsive" src="<?php echo base_url(); ?>images/ffs/vodopodgotovka-01.png" alt=""></p>
 
 			</div>
 		</div>

@@ -66,6 +66,10 @@ class Pages extends CI_Controller {
 				$data['title'] = 'Сорбционный фильтр';
 				break;
 
+			case 'giroulovitel':
+				$data['title'] = 'Жироуловитель';
+				break;
+
 			case 'montage':
 				$data['title'] = 'Строительно-монтажные работы';
 				break;
@@ -115,8 +119,8 @@ class Pages extends CI_Controller {
 		$this->load->library('email');
 
 		$this->email->from('robot@ystellunger.ru', 'Робот Штеллунгера');
-		$this->email->to('imstellunger@yandex.ru'); 
-		//$this->email->cc('sales@stellunger.ru'); 
+		$this->email->to('zapros@sk-rosprom.ru'); 
+		$this->email->cc('imstellunger@yandex.ru'); 
 		$this->email->subject($email_subject);
 		$this->email->message($email_content);	
 		$this->email->send();

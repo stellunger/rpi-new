@@ -65,6 +65,13 @@
 						<h3><a href="<?php echo base_url(); ?>sf">СОРБЦИОННЫЙ ФИЛЬТР</a></h3>						
 					</div>
 				</div>
+
+				<div class="col-md-3 col-sm-3">
+					<div class="b-tools-item">
+						<div class="b-img-tools"><a href="<?php echo base_url(); ?>giroulovitel"><img class="img-responsive" src="<?php echo base_url(); ?>images/ffs/giroulovitel-menu.png" alt=""></a></div>
+						<h3><a href="<?php echo base_url(); ?>sf">ЖИРОУЛОВИТЕЛЬ</a></h3>						
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
