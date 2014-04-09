@@ -131,19 +131,19 @@
 			<?php echo form_open('send_email'); ?>
 				<div class="row">
 					<div class="col-md-12">
-						<input type="text" class="form-control b-form-item" placeholder="Имя и фамилия" name="inputName" required>
+						<input type="text" class="form-control b-form-item" placeholder="Имя и фамилия" name="inputName">
 					</div>
 					<div class="col-md-12">
-						<input type="text" class="form-control b-form-item" placeholder="Название компании" name="inputCompany" required>
+						<input type="text" class="form-control b-form-item" placeholder="Название компании" name="inputCompany">
 					</div>
 					<div class="col-md-12">
-						<input type="text" class="form-control b-form-item" placeholder="Контактный телефон" name="inputPhone" required>
+						<input type="text" class="form-control b-form-item" placeholder="Контактный телефон" name="inputPhone">
 					</div>
 					<div class="col-md-12">
-						<input type="text" class="form-control b-form-item" placeholder="Адрес электронной почты" name="inputEmail" required>
+						<input type="text" class="form-control b-form-item" placeholder="Адрес электронной почты" name="inputEmail">
 					</div>
 					<div class="col-md-12">
-						<textarea class="form-control b-form-item" placeholder="Текст сообщения" name="inputMessage" required></textarea>
+						<textarea class="form-control b-form-item" placeholder="Текст сообщения" name="inputMessage"></textarea>
 					</div>
 				</div>
 				<div class="b-button">
